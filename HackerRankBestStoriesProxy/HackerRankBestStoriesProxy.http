@@ -1,0 +1,6 @@
+@HackerRankBestStoriesProxy_HostAddress = http://localhost:5027
+
+GET {{HackerRankBestStoriesProxy_HostAddress}}/beststories/2
+Accept: application/json
+
+###
